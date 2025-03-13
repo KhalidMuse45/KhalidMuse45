@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidmuse45&label=Profile%20views&color=0e75b6&style=flat" alt="khalidmuse45" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning Essentials & Digital and Analog Electronics**
+- 🌱 I’m currently learning **Machine Learning Essentials & Digital/Analog Electronics**
 
 - 📫 How to reach me **khalidmuse612@gmail.com**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Muse</h1>
-<h3 align="center">A Computer Engineering Student @ University of Minnesota-Twin Cities</h3>
+<h3 align="center">A Computer Science Student @ University of Minnesota-Twin Cities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidmuse45&label=Profile%20views&color=0e75b6&style=flat" alt="khalidmuse45" /> </p>
 
